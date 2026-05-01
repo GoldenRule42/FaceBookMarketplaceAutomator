@@ -1,0 +1,13 @@
+# Ignore API Keys
+api_key.txt
+Establish.txt
+.env
+
+# Ignore Processing Folders
+Input/
+Output/
+
+# Ignore Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
